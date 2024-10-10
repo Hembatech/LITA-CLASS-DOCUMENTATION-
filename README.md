@@ -1,4 +1,4 @@
-# LITA-CLASS-DOCUMENTATION-
+# LITA_CLASS_DOCUMENTATION-
 This  is where I documented my first project while learning Data Analysis with the Incubator Hub 
 
 ### project Title: E commerce Sales Analysis 
