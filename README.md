@@ -42,4 +42,11 @@ The primary source of Data used here is Data Sale. csv and this is an open sourc
    ```SQL
    SELECT * FROM TABLE1
    WHERE CONDITION = TRUE
-   ``` 
+   ```
+
+   ### Data Visualization
+  
+:😅
+
+: computer 
+
